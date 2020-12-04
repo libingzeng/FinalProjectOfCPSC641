@@ -22,8 +22,8 @@ Everything about the final project
 + [link](https://drive.google.com/drive/folders/1o5QGl8VGKE-_ehG3Y-P2EzAc1qp78Kw0?usp=sharing)
 
 ## Acknowledgments
-I heavily reused the code from + [consistent_depth](https://github.com/facebookresearch/consistent_depth)
-I would like to thank them.
+I heavily reused the code from [consistent_depth](https://github.com/facebookresearch/consistent_depth), because for optimization part, I intergrated the pretrained model into their framework.
+I would like to thank them for this.
 
 
 
